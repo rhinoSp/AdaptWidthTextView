@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center_horizontal">
+
+    <com.rhino.adaptwidthtextview.view.AdaptWidthTextView
+        android:id="@+id/text"
+        android:layout_width="140dp"
+        android:layout_height="80dp"
+        android:layout_marginTop="15dp"
+        android:gravity="center"
+        android:text="Hello World!"
+        android:textSize="16sp"
+        android:background="#1a000000"/>
+
+    <EditText
+        android:id="@+id/edit"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_marginTop="20dp"/>
+
+    <Button
+        android:id="@+id/ok"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:text="ok"
+        android:textSize="16sp"/>
+
+</LinearLayout>
