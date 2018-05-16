@@ -1,6 +1,9 @@
 # AdaptWidthTextView
 The custom TextView adjusted text size by width.
 
+# Screenshot
+![](https://github.com/rhinoSp/AdaptWidthTextView/blob/master/screenrecord/screenrecord.gif)  
+
 # Question / Contact Me / Hire Me
 
 Please feel free to ping me at rhino_luo@163.com.
